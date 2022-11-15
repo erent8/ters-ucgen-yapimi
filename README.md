@@ -1,0 +1,1 @@
+# ters-ucgen-yapimi
